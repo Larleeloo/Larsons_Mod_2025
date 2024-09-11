@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "larsons_mod_2025",
+	"version": "${version}",
+	"name": "Larsons_Mod_2025",
+	"description": "Things",
+	"authors": [
+		"Larson"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/larsons_mod_2025/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.larson.larsonsmod2025.Larsons_Mod_2025"
+		],
+		"fabric-datagen": [
+			"net.larson.larsonsmod2025.Larsons_Mod_2025DataGenerator"
+		],
+		"client": [
+			"net.larson.larsonsmod2025.LarsonsModClient"
+		]
+	},
+	"mixins": [
+		"larsons_mod_2025.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
