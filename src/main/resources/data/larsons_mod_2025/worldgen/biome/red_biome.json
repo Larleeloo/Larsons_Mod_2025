@@ -1,0 +1,30 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.1,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 16744576,
+    "fog_color": 16761538,
+    "water_color": 14958399,
+    "water_fog_color": 9708580,
+    "grass_color": 16724787,
+    "foliage_color": 13767700,
+    "mood_sound": {
+      "sound": "larsons_mod_2025:ambient_red_sounds1",
+      "tick_delay": 40,
+      "block_search_extent": 17,
+      "offset": 0
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:dark_forest_vegetation"
+    ],
+    [
+      "minecraft:blackstone_blobs"
+    ]
+  ]
+}

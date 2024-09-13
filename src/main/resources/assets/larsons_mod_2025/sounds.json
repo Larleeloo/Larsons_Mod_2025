@@ -1,0 +1,23 @@
+{
+  "ambient_red_sounds1": {
+    "category": "ambient",
+    "subtitle": "sounds.larsons_mod_2025.ambient_red_sounds1",
+    "sounds": [
+      "larsons_mod_2025:ambient_red_sounds1"
+    ]
+  },
+  "ambient_blue_sounds1": {
+    "category": "ambient",
+    "subtitle": "sounds.larsons_mod_2025.ambient_blue_sounds1",
+    "sounds": [
+      "larsons_mod_2025:ambient_blue_sounds1"
+    ]
+  },
+  "ambient_yellow_sounds1": {
+    "category": "ambient",
+    "subtitle": "sounds.larsons_mod_2025.ambient_yellow_sounds1",
+    "sounds": [
+      "larsons_mod_2025:ambient_yellow_sounds1"
+    ]
+  }
+}

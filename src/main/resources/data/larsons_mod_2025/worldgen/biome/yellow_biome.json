@@ -1,0 +1,30 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.1,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 16646016,
+    "fog_color": 15925186,
+    "water_color": 13689919,
+    "water_fog_color": 9606180,
+    "grass_color": 13238067,
+    "foliage_color": 12374548,
+    "mood_sound": {
+      "sound": "larsons_mod_2025:ambient_yellow_sounds1",
+      "tick_delay": 180,
+      "block_search_extent": 17,
+      "offset": 0
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:acacia"
+    ],
+    [
+      "minecraft:chorus_plant"
+    ]
+  ]
+}

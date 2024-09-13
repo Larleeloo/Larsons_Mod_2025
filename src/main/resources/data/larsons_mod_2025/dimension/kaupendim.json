@@ -1,0 +1,11 @@
+{
+  "type": "larsons_mod_2025:kaupendim_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "larsons_mod_2025:red_biome"
+    }
+  }
+}

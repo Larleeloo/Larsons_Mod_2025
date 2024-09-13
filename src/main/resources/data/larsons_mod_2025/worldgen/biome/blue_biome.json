@@ -1,0 +1,33 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.1,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 8428031,
+    "fog_color": 12764415,
+    "water_color": 4147940,
+    "water_fog_color": 2369684,
+    "grass_color": 3552255,
+    "foliage_color": 1512658,
+    "mood_sound": {
+      "sound": "larsons_mod_2025:ambient_blue_sounds1",
+      "tick_delay": 120,
+      "block_search_extent": 17,
+      "offset": 0
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:trees_swamp"
+    ],
+    [
+      "minecraft:flower_swamp"
+    ],
+    [
+      "minecraft:blackstone_blobs"
+    ]
+  ]
+}
