@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.larson.larsonsmod2025.Larsons_Mod_2025"
+			"net.larson.larsons_mod_2025.Larsons_Mod_2025"
 		],
 		"fabric-datagen": [
-			"net.larson.larsonsmod2025.Larsons_Mod_2025DataGenerator"
+			"net.larson.larsons_mod_2025.Larsons_Mod_2025DataGenerator"
 		],
 		"client": [
-			"net.larson.larsonsmod2025.LarsonsModClient"
+			"net.larson.larsons_mod_2025.LarsonsModClient"
 		]
 	},
 	"mixins": [

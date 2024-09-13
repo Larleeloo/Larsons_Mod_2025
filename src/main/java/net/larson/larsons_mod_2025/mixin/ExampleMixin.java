@@ -1,4 +1,4 @@
-package net.larson.larsonsmod2025.mixin;
+package net.larson.larsons_mod_2025.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

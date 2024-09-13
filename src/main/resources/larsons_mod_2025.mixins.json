@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.larson.larsonsmod2025.mixin",
+	"package": "net.larson.larsons_mod_2025.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

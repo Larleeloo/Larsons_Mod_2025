@@ -1,4 +1,4 @@
-package net.larson.larsonsmod2025;
+package net.larson.larsons_mod_2025;
 
 import net.fabricmc.api.ClientModInitializer;
 
